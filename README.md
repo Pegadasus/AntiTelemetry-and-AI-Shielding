@@ -1,5 +1,7 @@
 # AntiTelemetry-and-AI-Shielding
-Few scripts for scanning windows machines for AI, COPILOT and telemetry, also a script to disabled safely this processes  
+Few scripts for scanning windows machines for AI, COPILOT and telemetry, also a script to disabled safely this processes.
+
+*use the Scanner only befiore and after rebooting to confirm changes 
 
 
 🛡️ Safe Telemetry & AI Controller (DEBUGGED)
